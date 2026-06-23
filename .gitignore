@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+*.gradle
+gradlew
+gradlew.bat
+gradle/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local files
+local.properties
+backend_checkstyle_debug.log
+
+# Build outputs
+*.class
+*.jar
+*.war
+*.rar
+*.ear
+target/
+
+# Dependencies
+node_modules/
+.npm
+*.lock
+
+# OS
+Thumbs.db
+.directory
+
+# Environment
+.env
+.env.local
